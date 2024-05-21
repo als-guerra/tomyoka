@@ -1,0 +1,9 @@
+{
+  "name": "tomyoka",
+  "version": "1.0.0",
+  "private": true,
+  "main": "index.js",
+  "repository": "git@github.com:als-guerra/tomyoka.git",
+  "author": "Alan L. S. Guerra <alanlimadasilvaguerra23@gmail.com>",
+  "license": "MIT"
+}
